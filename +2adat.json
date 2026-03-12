@@ -1,0 +1,26 @@
+[
+    {
+        "id": 8,
+        "vehicle": {
+            "id": 1,
+            "type": "repülőgép"
+        },
+        "country": "Thaiföld",
+        "description": "Thaiföld Délkelet-Ázsia egyik legnépszerűbb úti célja, ahol egzotikus templomok, nyüzsgő piacok és trópusi szigetek várják az utazókat. Bangkok vibráló városi élete mellett a turisták szívesen látogatják Phuket és Krabi paradicsomi strandjait is. A kristálytiszta víz, a gazdag tengeri élővilág és a híres thai konyha felejthetetlen élményt kínál minden látogatónak. A barátságos helyiek és a különleges kulturális hagyományok még különlegesebbé teszik az utazást.",
+        "departure": "2024-12-03",
+        "capacity": 150,
+        "pictureUrl": "https://nits68.github.io/static/utazasi-iroda/thaifold.jpg"
+    },
+    {
+        "id": 9,
+        "vehicle": {
+            "id": 1,
+            "type": "repülőgép"
+        },
+        "country": "Olaszország",
+        "description": "Olaszország a kultúra, a történelem és a gasztronómia szerelmeseinek paradicsoma. Róma ősi emlékei, Firenze reneszánsz művészete és Velence romantikus csatornái mind-mind különleges élményt nyújtanak. A látogatók élvezhetik az autentikus olasz konyhát, a világhírű pizzát és tésztákat, valamint a mediterrán életérzést. A gyönyörű tengerpartok, történelmi városok és festői tájak minden utazót lenyűgöznek.",
+        "departure": "2024-12-10",
+        "capacity": 120,
+        "pictureUrl": "https://nits68.github.io/static/utazasi-iroda/olasz.jpg"
+    }
+]
