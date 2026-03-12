@@ -28,6 +28,9 @@ export default function RootLayout({
           >
             Regisztráció
           </Link>
+          <Link className="cursor-pointer transition-transform hover:scale-110" href="/pagination">
+            Lapozás
+          </Link>
         </nav>
         {children}
       </body>
